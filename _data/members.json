@@ -1,0 +1,43 @@
+{
+  "departments": [
+    {
+      "name": "Development",
+      "members": [
+        {
+          "name": "Ben",
+          "fullname" : "Ben Peachey",
+          "initials" : "B. M.",
+        },
+        {
+          "name": "Olav"
+        },
+        {
+          "name": "Daniel"
+        },
+        {
+          "name": "Arjan"
+        },
+        {
+          "name": "Gert-Jan"
+        },
+        {
+          "name": "Chris"
+        },
+        {
+          "name": "Wouter"
+        }
+      ]
+    },
+    {
+      "name": "Design",
+      "members": [
+        {
+          "name": "Frank"
+        },
+        {
+          "name": "Remon"
+        }
+      ]
+    }
+  ]
+}
