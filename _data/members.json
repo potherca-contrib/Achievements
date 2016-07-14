@@ -54,6 +54,16 @@
           "initials" : "R.K."
         }
       ]
+    },
+    {
+      "name": "Marketing",
+      "members": [
+        {
+          "name": "Lotte",
+          "fullname": "Lotte Veldhof",
+          "initials": "L.V."
+        }
+      ]
     }
   ]
 }
