@@ -6,25 +6,37 @@
         {
           "name": "Ben",
           "fullname" : "Ben Peachey",
-          "initials" : "B. M.",
+          "initials" : "B.M."
         },
         {
-          "name": "Olav"
+          "name": "Olav",
+          "fullname" : "Olav Rings",
+          "initials" : "O.R."
         },
         {
-          "name": "Daniel"
+          "name": "Daniel",
+          "fullname" : "Daniel Ravenshorst",
+          "initials" : "D.R."
         },
         {
-          "name": "Arjan"
+          "name": "Arjan",
+          "fullname" : "Arjan Kleene",
+          "initials" : "A.K."
         },
         {
-          "name": "Gert-Jan"
+          "name": "Gert-Jan",
+          "fullname" : "Gert-Jan Scholten",
+          "initials" : "G.S."
         },
         {
-          "name": "Chris"
+          "name": "Chris",
+          "fullname" : "Chris Broeren",
+          "initials" : "C.B."
         },
         {
-          "name": "Wouter"
+          "name": "Wouter",
+          "fullname" : "Wouter Oosterveld",
+          "initials" : "W.O."
         }
       ]
     },
@@ -32,10 +44,14 @@
       "name": "Design",
       "members": [
         {
-          "name": "Frank"
+          "name": "Frank",
+          "fullname" : "Frank Kuiper",
+          "initials" : "F.K."
         },
         {
-          "name": "Remon"
+          "name": "Remon",
+          "fullname" : "Remon Koning",
+          "initials" : "R.K."
         }
       ]
     }
