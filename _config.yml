@@ -1,0 +1,20 @@
+timezone: Europe/Amsterdam
+
+exclude: [Gemfile, Gemfile.lock]
+
+defaults:
+  - scope:
+      path: ""
+      type: profiles
+    values:
+      layout: profile
+
+webrick:
+  headers:
+    # For more information on the Clacks header see: http://www.gnuterrypratchett.com/#apache
+    X-Clacks-Overhead: GNU Terry Pratchett
+
+collections:
+  profiles:
+    output: true
+    permalink: /profiles/:path/
