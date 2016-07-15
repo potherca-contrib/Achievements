@@ -14,13 +14,14 @@ achievements :
   fry           : 0
   happy         : 0
   idea          : 0
+  legacy-project: 0
   magic         : 0
   maillove      : 0
   medal         : 0
   party         : 0
   patrick       : 0
   peacepipe     : 0
-  pencil        : 0
+  pencil        : 1
   progress      : 0
   roadblock     : 0
   sackofhay     : 0
