@@ -78,6 +78,21 @@ The file _must_ adhere to the naming convention mentioned above.
 An avatar file is optional. Of none is provided, the persons initials will be displayed,
 with a background color based on their initials.
 
-#### License
+## Technical details
+
+### Enforcement
+
+In order to validate that at least one other developer supports a badge being awarded, the [LGTM service](https://lgtm.co/)
+is used as github service hook.
+
+The LGTM configuration (which can be found in the `.lgtm` file) is set so that _at least_ one other developer approves
+ by adding one of the following to the comments of a pull-request:
+
+ - :shipit:
+ - :+1:
+ - Agree / agree
+ - okay / Okay / OK
+
+## License
 
 The code in this repository is released under the [GPLv3 license](LICENSE).
