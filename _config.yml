@@ -2,6 +2,8 @@ timezone: Europe/Amsterdam
 
 exclude: [Gemfile, Gemfile.lock]
 
+baseurl: /Achievements
+
 defaults:
   - scope:
       path: ""
