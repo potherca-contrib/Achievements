@@ -1,0 +1,79 @@
+{
+  "departments": [
+    {
+      "name": "Design",
+      "members": [
+        {
+          "name": "Frank",
+          "fullname" : "Frank Kuiper",
+          "initials" : "F.K."
+        },
+        {
+          "name": "Remon",
+          "fullname" : "Remon Koning",
+          "initials" : "R.K."
+        }
+      ]
+    },
+    {
+      "name": "Development",
+      "members": [
+        {
+          "name": "Ben",
+          "fullname" : "Ben Peachey",
+          "initials" : "B.M."
+        },
+        {
+          "name": "Olav",
+          "fullname" : "Olav Rings",
+          "initials" : "O.R."
+        },
+        {
+          "name": "Daniel",
+          "fullname" : "Daniel Ravenshorst",
+          "initials" : "D.R."
+        },
+        {
+          "name": "Arjan",
+          "fullname" : "Arjan Kleene",
+          "initials" : "A.K."
+        },
+        {
+          "name": "Gert-Jan",
+          "fullname" : "Gert-Jan Scholten",
+          "initials" : "G.S."
+        },
+        {
+          "name": "Chris",
+          "fullname" : "Chris Broeren",
+          "initials" : "C.B."
+        },
+        {
+          "name": "Wouter",
+          "fullname" : "Wouter Oosterveld",
+          "initials" : "W.O."
+        }
+      ]
+    },
+    {
+      "name": "Marketing",
+      "members": [
+        {
+          "name": "Lotte",
+          "fullname": "Lotte Veldhof",
+          "initials": "L.V."
+        }
+      ]
+    },
+    {
+      "name": "System Admin",
+      "members": [
+        {
+          "name": "Christian",
+          "fullname": "Christian Ropertz",
+          "initials": "C.R.",
+        }
+      ]
+    }
+  ]
+}
