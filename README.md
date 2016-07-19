@@ -72,7 +72,7 @@ An empty file is available as example (the `empty.md` file). This file can be co
 #### Add an avatar
 
 Finally an image (a so called _avatar_) can be added for an employee. Such a file
-should be placed in the `img/avatars/svg/` directory. It shoudl also be an SVG file.
+should be placed in the `img/avatars/svg/` directory. It should also be an SVG file.
 The file _must_ adhere to the naming convention mentioned above.
 
 An avatar file is optional. Of none is provided, the persons initials will be displayed,
