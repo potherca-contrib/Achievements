@@ -3,7 +3,7 @@ member: Gert-Jan Scholten
 
 achievements :
   alarm         : 0
-  beer          : 0
+  beer          : 1
   browsercheck  : 0
   coffee        : 0
   comment       : 0
