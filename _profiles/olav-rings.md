@@ -14,7 +14,7 @@ achievements :
   fry           : 0
   happy         : 0
   idea          : 0
-  legacy-project: 1
+  legacy-project: 0
   magic         : 0
   maillove      : 0
   medal         : 0
@@ -28,5 +28,5 @@ achievements :
   sad           : 0
   shield        : 0
   teamwork      : 0
-  thumb         : 1
+  thumb         : 0
 ---
