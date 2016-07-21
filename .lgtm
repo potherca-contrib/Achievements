@@ -1,2 +1,2 @@
 approvals = 1
-pattern = "(?i):shipit:|:\\+1:|Agree|agree|okay|OK|Okay"
+pattern = "(?i):shipit:|:\\+1:|:ok_hand:|\\+1|(\\b(?:agree|okay|OK)\\b)|👍|👌"
