@@ -1,11 +1,11 @@
 ---
-member: Chris Broeren
+member: Linsey van der Veen
 
 achievements :
   alarm         : 0
   beer          : 0
   browsercheck  : 0
-  coffee        : 1
+  coffee        : 0
   comment       : 0
   crayons       : 0
   darts         : 0
@@ -24,7 +24,7 @@ achievements :
   pencil        : 0
   progress      : 0
   roadblock     : 0
-  sackofhay     : 0
+  sackofhay     : 1
   sad           : 0
   shield        : 0
   teamwork      : 0
