@@ -1,6 +1,6 @@
 timezone: Europe/Amsterdam
 
-exclude: [Gemfile, Gemfile.lock]
+exclude: [Gemfile, Gemfile.lock, bin/]
 
 baseurl: /Achievements
 
