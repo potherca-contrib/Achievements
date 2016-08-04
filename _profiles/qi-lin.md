@@ -1,6 +1,4 @@
 ---
-member: Qi Lin
-
 achievements :
   alarm         : 0
   beer          : 0

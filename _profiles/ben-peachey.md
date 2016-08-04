@@ -1,6 +1,4 @@
 ---
-member: Ben Peachey
-
 achievements :
   alarm         : 0
   beer          : 0

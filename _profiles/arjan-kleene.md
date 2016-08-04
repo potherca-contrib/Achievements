@@ -1,6 +1,4 @@
 ---
-member: Arjan Kleene
-
 achievements :
   alarm         : 0
   beer          : 0

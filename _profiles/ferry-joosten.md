@@ -1,6 +1,4 @@
 ---
-member: Ferry Joosten
-
 achievements :
   alarm         : 0
   beer          : 0

@@ -1,6 +1,4 @@
 ---
-member: Pim Kaptein
-
 achievements :
   alarm         : 0
   beer          : 0

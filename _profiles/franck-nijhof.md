@@ -1,6 +1,4 @@
 ---
-member: Franck Nijhof
-
 achievements :
   alarm         : 0
   beer          : 0
