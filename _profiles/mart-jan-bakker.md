@@ -1,5 +1,5 @@
 ---
-member: Arjan Kleene
+member: Mart-Jan Bakker
 
 achievements :
   alarm         : 0
@@ -14,7 +14,7 @@ achievements :
   fry           : 0
   happy         : 0
   idea          : 0
-  legacy-project: 1
+  legacy-project: 0
   magic         : 0
   maillove      : 0
   medal         : 0
@@ -25,7 +25,7 @@ achievements :
   progress      : 0
   roadblock     : 0
   sackofhay     : 0
-  sad           : 1
+  sad           : 0
   shield        : 0
   teamwork      : 0
   thumb         : 0
