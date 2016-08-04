@@ -1,6 +1,4 @@
 ---
-member: Linsey van der Veen
-
 achievements :
   alarm         : 0
   beer          : 0

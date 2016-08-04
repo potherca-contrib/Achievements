@@ -1,6 +1,4 @@
 ---
-member: Olav Rings
-
 achievements :
   alarm         : 0
   beer          : 0

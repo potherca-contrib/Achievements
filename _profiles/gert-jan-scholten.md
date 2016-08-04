@@ -1,6 +1,4 @@
 ---
-member: Gert-Jan Scholten
-
 achievements :
   alarm         : 0
   beer          : 1

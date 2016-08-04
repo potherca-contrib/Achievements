@@ -1,6 +1,4 @@
 ---
-member: Remon Koning
-
 achievements :
   alarm         : 0
   beer          : 0

@@ -1,6 +1,4 @@
 ---
-member: Frank Kuiper
-
 achievements :
   alarm         : 0
   beer          : 0
