@@ -1,5 +1,5 @@
 ---
-  achievements :
+achievements :
   alarm         : 0
   beer          : 0
   browsercheck  : 0
@@ -16,7 +16,7 @@
   magic         : 0
   maillove      : 0
   medal         : 0
-  party         : 0
+  party         : 1
   patrick       : 0
   peacepipe     : 0
   pencil        : 0
