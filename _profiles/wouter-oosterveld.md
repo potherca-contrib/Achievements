@@ -8,7 +8,7 @@ achievements :
   crayons       : 0
   darts         : 0
   dealerdirect  : 0
-  easteregg     : 1
+  easteregg     : 0
   fry           : 0
   happy         : 0
   idea          : 0
@@ -24,7 +24,7 @@ achievements :
   roadblock     : 0
   sackofhay     : 0
   sad           : 0
-  shield        : 1
+  shield        : 0
   teamwork      : 0
   thumb         : 0
 ---
