@@ -1,6 +1,4 @@
 ---
-member: Daniel Ravenshorst
-
 achievements :
   alarm         : 0
   beer          : 0
