@@ -6,7 +6,7 @@ achievements :
   coffee        : 0
   comment       : 0
   crayons       : 0
-  darts         : 0
+  darts         : 1
   dealerdirect  : 0
   easteregg     : 0
   fry           : 0
@@ -26,5 +26,5 @@ achievements :
   sad           : 0
   shield        : 0
   teamwork      : 0
-  thumb         : 0
+  thumb         : 1
 ---
