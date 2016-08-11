@@ -9,7 +9,7 @@ achievements :
   darts         : 0
   dealerdirect  : 0
   easteregg     : 0
-  fry           : 0
+  fry           : 1
   happy         : 0
   idea          : 0
   legacy-project: 1
