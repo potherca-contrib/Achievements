@@ -1,6 +1,4 @@
 ---
-member: Lotte Veldhof
-
 achievements :
   alarm         : 0
   beer          : 0
@@ -28,5 +26,5 @@ achievements :
   sad           : 0
   shield        : 0
   teamwork      : 0
-  thumb         : 0
+  thumb         : 1
 ---

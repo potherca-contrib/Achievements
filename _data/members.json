@@ -52,6 +52,26 @@
           "name": "Wouter",
           "fullname" : "Wouter Oosterveld",
           "initials" : "W.O."
+        },
+        {
+          "name": "Franck",
+          "fullname": "Franck Nijhof",
+          "initials": "F.N."
+        },
+        {
+          "name": "Pim",
+          "fullname": "Pim Kaptein",
+          "initials": "P.K."
+        },
+        {
+          "name": "Mart-Jan",
+          "fullname": "Mart-Jan Bakker",
+          "initials": "M.B."
+        },
+        {
+          "name": "Vincent",
+          "fullname": "Vincent Stevens",
+          "initials": "V.S."
         }
       ]
     },
@@ -62,6 +82,16 @@
           "name": "Linsey",
           "fullname": "Linsey van der Veen",
           "initials": "L.V."
+        },
+        {
+          "name": "Ferry",
+          "fullname": "Ferry Joosten",
+          "initials": "F.J."
+        },
+        {
+          "name": "Qi",
+          "fullname": "Qi Lin",
+          "initials": "Q.L."
         }
       ]
     },

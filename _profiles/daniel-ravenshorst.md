@@ -1,6 +1,4 @@
 ---
-member: Daniel Ravenshorst
-
 achievements :
   alarm         : 0
   beer          : 0
@@ -14,7 +12,7 @@ achievements :
   fry           : 0
   happy         : 0
   idea          : 0
-  legacy-project: 1
+  legacy-project: 0
   magic         : 0
   maillove      : 0
   medal         : 0

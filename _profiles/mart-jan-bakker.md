@@ -5,7 +5,7 @@ achievements :
   browsercheck  : 0
   coffee        : 0
   comment       : 0
-  crayons       : 0
+  crayons       : 1
   darts         : 0
   dealerdirect  : 0
   easteregg     : 0

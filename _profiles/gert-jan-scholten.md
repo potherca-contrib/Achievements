@@ -1,9 +1,7 @@
 ---
-member: Gert-Jan Scholten
-
 achievements :
   alarm         : 0
-  beer          : 1
+  beer          : 0
   browsercheck  : 0
   coffee        : 0
   comment       : 0
@@ -24,7 +22,7 @@ achievements :
   pencil        : 0
   progress      : 0
   roadblock     : 0
-  sackofhay     : 0
+  sackofhay     : 1
   sad           : 0
   shield        : 0
   teamwork      : 0

@@ -16,7 +16,7 @@ achievements :
   magic         : 0
   maillove      : 0
   medal         : 0
-  party         : 0
+  party         : 1
   patrick       : 0
   peacepipe     : 0
   pencil        : 0
@@ -25,6 +25,6 @@ achievements :
   sackofhay     : 0
   sad           : 0
   shield        : 0
-  teamwork      : 0
+  teamwork      : 1
   thumb         : 0
 ---
