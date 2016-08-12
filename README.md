@@ -90,6 +90,7 @@ The LGTM configuration (which can be found in the `.lgtm` file) is set so that _
 
  - :shipit:
  - :+1:
+ - :ship:
  - Agree / agree
  - okay / Okay / OK
 
