@@ -67,6 +67,11 @@
           "name": "Mart-Jan",
           "fullname": "Mart-Jan Bakker",
           "initials": "M.B."
+        },
+        {
+          "name": "Vincent",
+          "fullname": "Vincent Stevens",
+          "initials": "V.S."
         }
       ]
     },
@@ -97,6 +102,11 @@
           "name": "Lotte",
           "fullname": "Lotte Veldhof",
           "initials": "L.V."
+        },
+        {
+          "name": "Arthur",
+          "fullname": "Arthur Prinsen",
+          "initials": "A.P."
         }
       ]
     },
