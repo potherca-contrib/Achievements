@@ -6,14 +6,14 @@ achievements :
   coffee        : 0
   comment       : 0
   crayons       : 0
-  darts         : 1
+  darts         : 0
   dealerdirect  : 0
   easteregg     : 0
   fry           : 0
   happy         : 0
   idea          : 0
   legacy-project: 0
-  magic         : 1
+  magic         : 0
   maillove      : 0
   medal         : 0
   party         : 0
@@ -26,5 +26,5 @@ achievements :
   sad           : 0
   shield        : 0
   teamwork      : 0
-  thumb         : 1
+  thumb         : 0
 ---

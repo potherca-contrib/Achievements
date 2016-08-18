@@ -1,6 +1,4 @@
 ---
-member: 
-
 achievements :
   alarm         : 0
   beer          : 0
@@ -24,7 +22,7 @@ achievements :
   pencil        : 0
   progress      : 0
   roadblock     : 0
-  sackofhay     : 1
+  sackofhay     : 0
   sad           : 0
   shield        : 0
   teamwork      : 0

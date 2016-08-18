@@ -16,7 +16,7 @@ achievements :
   magic         : 0
   maillove      : 0
   medal         : 0
-  party         : 1
+  party         : 0
   patrick       : 0
   peacepipe     : 0
   pencil        : 0
