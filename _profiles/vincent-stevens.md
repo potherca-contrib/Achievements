@@ -10,7 +10,7 @@ achievements :
   dealerdirect  : 0
   easteregg     : 0
   fry           : 0
-  happy         : 0
+  happy         : 1
   idea          : 0
   legacy-project: 0
   magic         : 0
@@ -23,7 +23,7 @@ achievements :
   progress      : 0
   roadblock     : 0
   sackofhay     : 0
-  sad           : 0
+  sad           : 1
   shield        : 0
   teamwork      : 1
   thumb         : 0
