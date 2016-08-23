@@ -17,7 +17,7 @@ achievements :
   maillove      : 0
   medal         : 0
   party         : 0
-  patrick       : 1
+  patrick       : 0
   peacepipe     : 0
   pencil        : 0
   progress      : 0
@@ -26,5 +26,5 @@ achievements :
   sad           : 0
   shield        : 0
   teamwork      : 0
-  thumb         : 0
+  thumb         : 1
 ---
