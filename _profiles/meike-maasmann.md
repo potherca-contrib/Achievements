@@ -15,9 +15,9 @@ achievements :
   legacy-project: 0
   magic         : 0
   maillove      : 0
-  medal         : 0
+  medal         : 1
   party         : 0
-  patrick       : 1
+  patrick       : 0
   peacepipe     : 0
   pencil        : 0
   progress      : 0
