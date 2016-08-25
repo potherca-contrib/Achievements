@@ -1,5 +1,14 @@
 {
   "departments": [
+    "Data Science" : {
+      "member": [
+        {
+          "name": "Knut",
+          "fullname" : "Knut Jaegersberg",
+          "initials" : "K.J."
+        }
+      ]
+    },
     {
       "name": "Design",
       "members": [
