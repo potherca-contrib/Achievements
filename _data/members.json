@@ -1,7 +1,8 @@
 {
   "departments": [
-    "Data Science" : {
-      "member": [
+    {
+      "name": "Data Science",
+      "members": [
         {
           "name": "Knut",
           "fullname" : "Knut Jaegersberg",
