@@ -3,14 +3,14 @@ achievements :
   alarm         : 0
   beer          : 0
   browsercheck  : 0
-  coffee        : 0
+  coffee        : 1
   comment       : 0
   crayons       : 0
   darts         : 0
-  dealerdirect  : 0
+  dealerdirect  : 1
   easteregg     : 2
   fry           : 0
-  happy         : 0
+  happy         : 1
   idea          : 0
   legacy-project: 0
   magic         : 0
