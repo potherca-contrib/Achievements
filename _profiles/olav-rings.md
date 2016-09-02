@@ -1,10 +1,10 @@
 ---
 achievements :
   alarm         : 0
-  beer          : 1
+  beer          : 0
   browsercheck  : 0
   coffee        : 0
-  comment       : 1
+  comment       : 0
   crayons       : 0
   darts         : 0
   dealerdirect  : 0
@@ -20,11 +20,11 @@ achievements :
   patrick       : 0
   peacepipe     : 0
   pencil        : 0
-  progress      : 1
+  progress      : 0
   roadblock     : 0
   sackofhay     : 0
   sad           : 0
   shield        : 0
   teamwork      : 0
-  thumb         : 1
+  thumb         : 0
 ---
