@@ -1,0 +1,8 @@
+{% capture cache %}
+    {% assign names = include.name | split:" " %}
+    {% assign initials = "" %}
+    {% for name in names %}
+        {% assign initial = name | slice: 0, 1 %}
+        {% assign initials = initials | append: initial | append: "." %}
+    {% endfor %}
+{% endcapture %}{% assign cache = nil %}{{ initials }}
