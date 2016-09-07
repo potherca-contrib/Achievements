@@ -6,7 +6,8 @@
             <ul>
                 {% assign members = department.members | sort: 'name' %}
                 {% for member in members %}
-                <li><a href="{{ site.baseurl }}/profiles/{% include slug-from-member.lqd %}/">{{ member.name }}</a></li>
+                    {% assign names = member.fullname | split:" " %}
+                <li><a href="{{ site.baseurl }}/profiles/{% include slug-from-member.lqd %}/">{{ names.first() }}</a></li>
                 {% endfor %}
             </ul>
         </li>
