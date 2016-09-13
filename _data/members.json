@@ -1,6 +1,16 @@
 {
   "departments": [
     {
+      "name": "Business Intelligence",
+      "members": [
+        {
+          "name": "Michael",
+          "fullname" : "Michael Jeckmans",
+          "initials" : "M.J."
+        }
+      ]
+    },
+    {
       "name": "Data Science",
       "members": [
         {
