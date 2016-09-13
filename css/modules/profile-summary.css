@@ -14,21 +14,21 @@
 */
 /********( Introduction )******************************************************/
 /*
-    This file contains all of the style rules for a Summary Profile Card. This 
-    card consists of a name and an optional image. An example of such a card 
+    This file contains all of the style rules for a Summary Profile Card. This
+    card consists of a name and an optional image. An example of such a card
     would be:
-    
+
         <div class="profile-summary">
             <a href="profile.html">
                 <span class="profile-summary__icon">I.N.</span>
                 <span class="profile-summary__name">Initials Name</span>
             </a>
         </div>
-        
-    If an image is available, the " has-image" class should be set on the 
+
+    If an image is available, the " has-image" class should be set on the
     "profile-summary__icon" element.
-    
-    It is the responsibility of the programmer/site-creator to provide a 
+
+    It is the responsibility of the programmer/site-creator to provide a
     background color or image for each card.
 
 */
@@ -43,7 +43,7 @@
         transform-style: preserve-3d;
         transition: border 0.85s, transform 0.85s;
     }
-    
+
     .profile-summary a {
         text-decoration: inherit;
         color: inherit;
@@ -164,9 +164,10 @@
     {% for member in members %}
     {% capture slug %}{% include slug-from-member.lqd %}{% endcapture %}
     .profile--{{ slug }} .profile-summary__icon {
-        background-color:{% include color-from-initials.lqd initials=member.initials %};
+        background-color:{% include color-from-name.lqd name=member.fullname %};
         {% for static_file in site.static_files %}
-            {% assign filePath = '/img/avatars/svg/' | append: member.name | append: '.svg' | downcase %}
+            {% assign names = member.fullname | downcase | split:" " %}
+            {% assign filePath = '/img/avatars/svg/' | append: names.first() | append: '.svg' | downcase %}
             {% if static_file.path == filePath %}
         background-image: url({{ filePath | prepend: site.baseurl}});
         background-color: transparent;
@@ -177,5 +178,5 @@
     }
     {% endfor %}
 {% endfor %}
-    
+
 /*EOF*/

@@ -3,7 +3,7 @@
 <div class="profile profile-summary profile--{{ slug }}{% if highscorers contains slug %} winner{% endif %}">
     <a href="{{ site.baseurl }}/profiles/{{ slug }}/">
         <span class="profile-summary__icon">
-            {{ member.initials }}
+            {% include initials-from-name.lqd name=member.fullname %}
         </span>
 
         <span class="profile-summary__score">

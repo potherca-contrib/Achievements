@@ -3,7 +3,7 @@
 ## Introduction
 
 This repository contains the code, templates and data that help us track the progress
-of Dealer Direct achievements. These achievements are represented by "badges" that 
+of Dealer Direct achievements. These achievements are represented by "badges" that
 people can reward each other with.
 
 For the Developers, the person who has been awarded the most badges at the end of a sprint "wins" that sprint.
@@ -40,7 +40,7 @@ In order to add an employee to this repository, information and files need to be
 
 The first step is to add an employee by editing the `_data/members.json` file.
 
-This file has the following structure: 
+This file has the following structure:
 
 ```
 {
@@ -49,9 +49,7 @@ This file has the following structure:
       "name": "Departement Name",
       "members": [
         {
-          "name": "Name",
-          "fullname" : "Name of Employee",
-          "initials" : "N.E."
+          "fullname" : "Name of Employee"
         }
       ]
     }

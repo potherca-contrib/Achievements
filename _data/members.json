@@ -4,9 +4,7 @@
       "name": "Business Intelligence",
       "members": [
         {
-          "name": "Michael",
-          "fullname" : "Michael Jeckmans",
-          "initials" : "M.J."
+          "fullname" : "Michael Jeckmans"
         }
       ]
     },
@@ -14,9 +12,7 @@
       "name": "Data Science",
       "members": [
         {
-          "name": "Knut",
-          "fullname" : "Knut Jaegersberg",
-          "initials" : "K.J."
+          "fullname" : "Knut Jaegersberg"
         }
       ]
     },
@@ -24,9 +20,7 @@
       "name": "Design",
       "members": [
         {
-          "name": "Frank",
-          "fullname" : "Frank Kuiper",
-          "initials" : "F.K."
+          "fullname" : "Frank Kuiper"
         }
       ]
     },
@@ -34,64 +28,40 @@
       "name": "Development",
       "members": [
         {
-          "name": "Ben",
-          "fullname" : "Ben Peachey",
-          "initials" : "B.M."
+          "fullname" : "Ben Peachey"
         },
         {
-          "name": "Olav",
-          "fullname" : "Olav Rings",
-          "initials" : "O.R."
+          "fullname" : "Olav Rings"
         },
         {
-          "name": "Daniel",
-          "fullname" : "Daniel Ravenshorst",
-          "initials" : "D.R."
+          "fullname" : "Daniel Ravenshorst"
         },
         {
-          "name": "Arjan",
-          "fullname" : "Arjan Kleene",
-          "initials" : "A.K."
+          "fullname" : "Arjan Kleene"
         },
         {
-          "name": "Gert-Jan",
-          "fullname" : "Gert-Jan Scholten",
-          "initials" : "G.S."
+          "fullname" : "Gert-Jan Scholten"
         },
         {
-          "name": "Chris",
-          "fullname" : "Chris Broeren",
-          "initials" : "C.B."
+          "fullname" : "Chris Broeren"
         },
         {
-          "name": "Wouter",
-          "fullname" : "Wouter Oosterveld",
-          "initials" : "W.O."
+          "fullname" : "Wouter Oosterveld"
         },
         {
-          "name": "Franck",
-          "fullname": "Franck Nijhof",
-          "initials": "F.N."
+          "fullname": "Franck Nijhof"
         },
         {
-          "name": "Pim",
-          "fullname": "Pim Kaptein",
-          "initials": "P.K."
+          "fullname": "Pim Kaptein"
         },
         {
-          "name": "Mart-Jan",
-          "fullname": "Mart-Jan Bakker",
-          "initials": "M.B."
+          "fullname": "Mart-Jan Bakker"
         },
         {
-          "name": "Vincent",
-          "fullname": "Vincent Stevens",
-          "initials": "V.S."
+          "fullname": "Vincent Stevens"
         },
         {
-          "name": "Mitchell",
-          "fullname": "Mitchell Busschers",
-          "initials": "M.B."
+          "fullname": "Mitchell Busschers"
         }
       ]
     },
@@ -99,19 +69,13 @@
       "name": "Product Owners",
       "members": [
         {
-          "name": "Linsey",
-          "fullname": "Linsey van der Veen",
-          "initials": "L.V."
+          "fullname": "Linsey van der Veen"
         },
         {
-          "name": "Ferry",
-          "fullname": "Ferry Joosten",
-          "initials": "F.J."
+          "fullname": "Ferry Joosten"
         },
         {
-          "name": "Qi",
-          "fullname": "Qi Lin",
-          "initials": "Q.L."
+          "fullname": "Qi Lin"
         }
       ]
     },
@@ -119,24 +83,16 @@
       "name": "Marketing",
       "members": [
         {
-          "name": "Lotte",
-          "fullname": "Lotte Veldhof",
-          "initials": "L.V."
+          "fullname": "Lotte Veldhof"
         },
         {
-          "name": "Arthur",
-          "fullname": "Arthur Prinsen",
-          "initials": "A.P."
+          "fullname": "Arthur Prinsen"
         },
         {
-          "name": "Meike",
-          "fullname": "Meike Maasmann",
-          "initials": "M.M."
+          "fullname": "Meike Maasmann"
         },
         {
-          "name": "Narek",
-          "fullname": "Narek Grigoryan",
-          "initials": "N.G."
+          "fullname": "Narek Grigoryan"
         }
       ]
     },
@@ -144,14 +100,10 @@
       "name": "System Admin",
       "members": [
         {
-          "name": "Christian",
-          "fullname": "Christian Ropertz",
-          "initials": "C.R."
+          "fullname": "Christian Ropertz"
         },
         {
-          "name": "Edward",
-          "fullname": "Edward de Wit",
-          "initials": "E.W."
+          "fullname": "Edward de Wit"
         }
       ]
     }
