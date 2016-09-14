@@ -26,6 +26,6 @@ achievements :
   sackofhay     : 1
   sad           : 0
   shield        : 0
-  teamwork      : 0
+  teamwork      : 1
   thumb         : 1
 ---
