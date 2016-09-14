@@ -19,7 +19,7 @@ achievements :
   party         : 0
   patrick       : 0
   peacepipe     : 0
-  pencil        : 0
+  pencil        : 1
   poo           : 0
   progress      : 0
   roadblock     : 0
