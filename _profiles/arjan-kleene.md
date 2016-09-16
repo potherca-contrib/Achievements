@@ -13,7 +13,7 @@ achievements :
   happy         : 0
   idea          : 0
   legacy-project: 0
-  magic         : 1
+  magic         : 0
   maillove      : 0
   medal         : 0
   party         : 0
@@ -23,9 +23,9 @@ achievements :
   poo           : 0
   progress      : 0
   roadblock     : 0
-  sackofhay     : 1
+  sackofhay     : 0
   sad           : 0
   shield        : 0
-  teamwork      : 1
-  thumb         : 1
+  teamwork      : 0
+  thumb         : 0
 ---
