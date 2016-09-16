@@ -4,7 +4,7 @@ declare -a aFiles
 declare sContent
 
 readonly sSourceFile='empty.md'
-readonly sTargetPath="$(dirname $(readlink -f $0))/../_profiles"
+readonly sTargetPath="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/../_profiles"
 
 function abort(){
     echo 'Aborting.'
@@ -14,7 +14,8 @@ function abort(){
 function confirm(){
     echo -e "$1"
     read -s -r -n 1 -p $'Continue? [y/n]\n' sContinue
-    if [[ ! "${sContinue}" =~ ^(y|Y|)$ ]];then
+    echo ${sContinue}
+    if [[ ! "${sContinue}" =~ ^[Yy]$ ]];then
         abort
     fi
 }
