@@ -17,15 +17,15 @@ achievements :
   maillove      : 0
   medal         : 0
   party         : 0
-  patrick       : 1
+  patrick       : 0
   peacepipe     : 0
   pencil        : 0
   poo           : 0
-  progress      : 1
+  progress      : 0
   roadblock     : 0
   sackofhay     : 0
   sad           : 0
   shield        : 0
   teamwork      : 0
-  thumb         : 1
+  thumb         : 0
 ---

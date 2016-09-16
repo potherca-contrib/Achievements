@@ -19,13 +19,13 @@ achievements :
   party         : 0
   patrick       : 0
   peacepipe     : 0
-  pencil        : 1
+  pencil        : 0
   poo           : 0
   progress      : 0
   roadblock     : 0
   sackofhay     : 0
   sad           : 0
   shield        : 0
-  teamwork      : 1
+  teamwork      : 0
   thumb         : 0
 ---

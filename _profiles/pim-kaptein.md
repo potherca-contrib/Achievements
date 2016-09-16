@@ -8,10 +8,10 @@ achievements :
   crayons       : 0
   darts         : 0
   dealerdirect  : 0
-  easteregg     : 1
+  easteregg     : 0
   fry           : 0
   happy         : 0
-  idea          : 1
+  idea          : 0
   legacy-project: 0
   magic         : 0
   maillove      : 0
