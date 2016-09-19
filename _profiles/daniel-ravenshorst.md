@@ -24,7 +24,7 @@ achievements :
   progress      : 0
   roadblock     : 0
   sackofhay     : 0
-  sad           : 0
+  sad           : 1
   shield        : 0
   teamwork      : 0
   thumb         : 0
