@@ -7,7 +7,7 @@ achievements :
   comment       : 0
   crayons       : 0
   darts         : 0
-  dealerdirect  : 0
+  dealerdirect  : 1
   easteregg     : 0
   fry           : 0
   happy         : 1
