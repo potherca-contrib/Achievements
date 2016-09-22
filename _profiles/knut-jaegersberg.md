@@ -6,7 +6,7 @@ achievements :
   coffee        : 0
   comment       : 0
   crayons       : 0
-  darts         : 0
+  darts         : 1
   dealerdirect  : 0
   easteregg     : 0
   fry           : 0
