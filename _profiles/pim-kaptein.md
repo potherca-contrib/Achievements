@@ -3,7 +3,7 @@ achievements :
   alarm         : 0
   beer          : 1
   browsercheck  : 0
-  coffee        : 0
+  coffee        : 1
   comment       : 0
   crayons       : 0
   darts         : 0
