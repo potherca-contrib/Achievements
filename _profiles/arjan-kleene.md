@@ -15,7 +15,7 @@ achievements :
   legacy-project: 0
   magic         : 0
   maillove      : 0
-  medal         : 0
+  medal         : 1
   party         : 0
   patrick       : 0
   peacepipe     : 0
@@ -27,5 +27,5 @@ achievements :
   sad           : 0
   shield        : 0
   teamwork      : 0
-  thumb         : 0
+  thumb         : 1
 ---
