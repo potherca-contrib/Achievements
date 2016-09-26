@@ -28,7 +28,7 @@ achievements :
   shield        : 0
   teamwork      : 0
   thumb         : 0
-  education     : 0
+  education     : 1
   fart          : 0
   grammar       : 0
   nerf          : 0
