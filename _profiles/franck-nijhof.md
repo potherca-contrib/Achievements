@@ -21,7 +21,7 @@ achievements :
   peacepipe     : 0
   pencil        : 0
   poo           : 0
-  progress      : 1
+  progress      : 0
   roadblock     : 0
   sackofhay     : 0
   sad           : 0
@@ -32,6 +32,6 @@ achievements :
   fart          : 0
   grammar       : 0
   nerf          : 0
-  sledgehammer  : 0
+  sledgehammer  : 1
   teamplayer    : 0
 ---
