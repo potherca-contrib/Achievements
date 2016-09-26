@@ -21,11 +21,17 @@ achievements :
   peacepipe     : 0
   pencil        : 0
   poo           : 0
-  progress      : 1
+  progress      : 0
   roadblock     : 0
   sackofhay     : 0
   sad           : 0
   shield        : 0
   teamwork      : 0
   thumb         : 0
+  education     : 0
+  fart          : 0
+  grammar       : 0
+  nerf          : 0
+  sledgehammer  : 1
+  teamplayer    : 0
 ---

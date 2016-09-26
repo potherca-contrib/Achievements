@@ -28,4 +28,10 @@ achievements :
   shield        : 0
   teamwork      : 0
   thumb         : 1
+  education     : 0
+  fart          : 0
+  grammar       : 0
+  nerf          : 0
+  sledgehammer  : 0
+  teamplayer    : 0
 ---
