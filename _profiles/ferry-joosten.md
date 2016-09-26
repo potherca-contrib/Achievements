@@ -30,7 +30,7 @@ achievements :
   thumb         : 0
   education     : 0
   fart          : 0
-  grammar       : 0
+  grammar       : 1
   nerf          : 0
   sledgehammer  : 0
   teamplayer    : 0
