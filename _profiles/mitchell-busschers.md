@@ -3,7 +3,7 @@ achievements :
   alarm         : 0
   beer          : 0
   browsercheck  : 0
-  coffee        : 0
+  coffee        : 1
   comment       : 0
   crayons       : 0
   darts         : 0
@@ -17,7 +17,7 @@ achievements :
   maillove      : 0
   medal         : 0
   party         : 0
-  patrick       : 1
+  patrick       : 2
   peacepipe     : 0
   pencil        : 0
   poo           : 0
