@@ -17,7 +17,7 @@ achievements :
   maillove      : 0
   medal         : 0
   party         : 0
-  patrick       : 1
+  patrick       : 0
   peacepipe     : 0
   pencil        : 0
   poo           : 0

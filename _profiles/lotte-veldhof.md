@@ -4,7 +4,7 @@ achievements :
   beer          : 0
   browsercheck  : 0
   coffee        : 0
-  comment       : 1
+  comment       : 0
   crayons       : 0
   darts         : 0
   dealerdirect  : 0

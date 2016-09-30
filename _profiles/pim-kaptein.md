@@ -1,9 +1,9 @@
 ---
 achievements :
   alarm         : 0
-  beer          : 1
+  beer          : 0
   browsercheck  : 0
-  coffee        : 1
+  coffee        : 0
   comment       : 0
   crayons       : 0
   darts         : 0
@@ -24,7 +24,7 @@ achievements :
   progress      : 0
   roadblock     : 0
   sackofhay     : 0
-  sad           : 1
+  sad           : 0
   shield        : 0
   teamwork      : 0
   thumb         : 0

@@ -1,7 +1,7 @@
 ---
 achievements :
   alarm         : 0
-  beer          : 1
+  beer          : 0
   browsercheck  : 0
   coffee        : 0
   comment       : 0
@@ -12,7 +12,7 @@ achievements :
   fry           : 0
   happy         : 0
   idea          : 0
-  legacy-project: 1
+  legacy-project: 0
   magic         : 0
   maillove      : 0
   medal         : 0
@@ -21,11 +21,11 @@ achievements :
   peacepipe     : 0
   pencil        : 0
   poo           : 0
-  progress      : 1
+  progress      : 0
   roadblock     : 0
-  sackofhay     : 1
+  sackofhay     : 0
   sad           : 0
-  shield        : 1
+  shield        : 0
   teamwork      : 0
   thumb         : 0
   education     : 0

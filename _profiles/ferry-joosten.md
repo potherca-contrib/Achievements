@@ -8,7 +8,7 @@ achievements :
   crayons       : 0
   darts         : 0
   dealerdirect  : 0
-  easteregg     : 2
+  easteregg     : 0
   fry           : 0
   happy         : 0
   idea          : 0
@@ -20,7 +20,6 @@ achievements :
   patrick       : 0
   peacepipe     : 0
   pencil        : 0
-  pie           : 1
   poo           : 0
   progress      : 0
   roadblock     : 0
@@ -31,7 +30,7 @@ achievements :
   thumb         : 0
   education     : 0
   fart          : 0
-  grammar       : 1
+  grammar       : 0
   nerf          : 0
   sledgehammer  : 0
   teamplayer    : 0
