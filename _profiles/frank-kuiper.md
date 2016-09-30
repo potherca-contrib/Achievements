@@ -7,13 +7,13 @@ achievements :
   comment       : 0
   crayons       : 0
   darts         : 0
-  dealerdirect  : 1
+  dealerdirect  : 0
   easteregg     : 0
   fry           : 0
-  happy         : 1
+  happy         : 0
   idea          : 0
   legacy-project: 0
-  magic         : 1
+  magic         : 0
   maillove      : 0
   medal         : 0
   party         : 0

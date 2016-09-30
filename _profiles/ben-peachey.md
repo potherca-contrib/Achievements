@@ -23,7 +23,7 @@ achievements :
   poo           : 0
   progress      : 0
   roadblock     : 0
-  sackofhay     : 2
+  sackofhay     : 0
   sad           : 0
   shield        : 0
   teamwork      : 0
