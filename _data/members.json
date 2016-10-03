@@ -4,7 +4,7 @@
       "name": "Business Intelligence",
       "members": [
         {
-          "fullname" : "Michael Jeckmans"
+          "fullname": "Michael Jeckmans"
         }
       ]
     },
@@ -12,7 +12,7 @@
       "name": "Data Science",
       "members": [
         {
-          "fullname" : "Knut Jaegersberg"
+          "fullname": "Knut Jaegersberg"
         }
       ]
     },
@@ -20,7 +20,7 @@
       "name": "Design",
       "members": [
         {
-          "fullname" : "Frank Kuiper"
+          "fullname": "Frank Kuiper"
         }
       ]
     },
@@ -28,40 +28,40 @@
       "name": "Development",
       "members": [
         {
-          "fullname" : "Ben Peachey"
+          "fullname": "Arjan Kleene"
         },
         {
-          "fullname" : "Olav Rings"
+          "fullname": "Ben Peachey"
         },
         {
-          "fullname" : "Daniel Ravenshorst"
+          "fullname": "Chris Broeren"
         },
         {
-          "fullname" : "Arjan Kleene"
-        },
-        {
-          "fullname" : "Gert-Jan Scholten"
-        },
-        {
-          "fullname" : "Chris Broeren"
-        },
-        {
-          "fullname" : "Wouter Oosterveld"
+          "fullname": "Daniel Ravenshorst"
         },
         {
           "fullname": "Franck Nijhof"
         },
         {
-          "fullname": "Pim Kaptein"
+          "fullname": "Gert-Jan Scholten"
         },
         {
           "fullname": "Mart-Jan Bakker"
         },
         {
+          "fullname": "Mitchell Busschers"
+        },
+        {
+          "fullname": "Olav Rings"
+        },
+        {
+          "fullname": "Pim Kaptein"
+        },
+        {
           "fullname": "Vincent Stevens"
         },
         {
-          "fullname": "Mitchell Busschers"
+          "fullname": "Wouter Oosterveld"
         }
       ]
     },
@@ -69,10 +69,10 @@
       "name": "Product Owners",
       "members": [
         {
-          "fullname": "Linsey van der Veen"
+          "fullname": "Ferry Joosten"
         },
         {
-          "fullname": "Ferry Joosten"
+          "fullname": "Linsey van der Veen"
         }
       ]
     },
@@ -80,10 +80,10 @@
       "name": "Marketing",
       "members": [
         {
-          "fullname": "Lotte Veldhof"
+          "fullname": "Arthur Prinsen"
         },
         {
-          "fullname": "Arthur Prinsen"
+          "fullname": "Lotte Veldhof"
         },
         {
           "fullname": "Meike Maasmann"
