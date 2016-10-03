@@ -20,7 +20,7 @@ achievements :
   patrick       : 0
   peacepipe     : 0
   pencil        : 0
-  poo           : 0
+  poo           : 1 
   progress      : 0
   roadblock     : 0
   sackofhay     : 0
