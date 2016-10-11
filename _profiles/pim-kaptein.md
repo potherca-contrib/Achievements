@@ -21,7 +21,7 @@ achievements :
   peacepipe     : 0
   pencil        : 0
   poo           : 0
-  progress      : 0
+  progress      : 1
   roadblock     : 0
   sackofhay     : 0
   sad           : 0
