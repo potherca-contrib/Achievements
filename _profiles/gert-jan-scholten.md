@@ -13,7 +13,7 @@ achievements :
   crown         : 0
   darts         : 0
   dealerdirect  : 0
-  easteregg 	: 0
+  easteregg 	  : 0
   education     : 0
   fart          : 0
   fry           : 0
@@ -26,7 +26,7 @@ achievements :
   medal         : 0
   nerf          : 0
   party         : 0
-  patrick       : 1
+  patrick       : 2
   peacepipe     : 0
   pencil        : 0
   pie           : 0
