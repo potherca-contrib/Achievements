@@ -39,5 +39,5 @@ achievements :
   sledgehammer  : 0
   teamplayer    : 0
   teamwork      : 0
-  thumb         : 1
+  thumb         : 0
 ---
