@@ -80,17 +80,16 @@ with a background color based on their initials.
 
 ### Enforcement
 
-In order to validate that at least one other developer supports a badge being awarded, the [LGTM service](https://lgtm.co/)
-is used as github service hook.
+In order to validate that at least one other developer supports a badge being awarded,
+a pull request review is required.
 
-The LGTM configuration (which can be found in the `.lgtm` file) is set so that _at least_ one other developer approves
- by adding one of the following to the comments of a pull-request:
+The `gh-pages` branch is protected so that _at least_ one other developer approves
+ by reviewing the change.
 
- - :shipit:
- - :+1:
- - :ship:
- - Agree / agree
- - okay / Okay / OK
+For more information about required reviews for pull requests, please check the official GitHub documentation about
+[this subject].
+
+[this subject]: https://help.github.com/articles/about-required-reviews-for-pull-requests/
 
 ## License
 
