@@ -14,7 +14,7 @@ achievements :
   darts         : 0
   dealerdirect  : 0
   easteregg 	  : 0
-  education     : 0
+  education     : 1
   fart          : 0
   fry           : 0
   grammar       : 0
@@ -38,6 +38,6 @@ achievements :
   shield        : 0
   sledgehammer  : 0
   teamplayer    : 1
-  teamwork      : 0
+  teamwork      : 1
   thumb         : 0
 ---
