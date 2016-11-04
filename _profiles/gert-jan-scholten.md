@@ -14,7 +14,7 @@ achievements :
   darts         : 0
   dealerdirect  : 0
   easteregg 	: 1
-  education     : 0
+  education     : 1
   fart          : 0
   fry           : 0
   grammar       : 0
