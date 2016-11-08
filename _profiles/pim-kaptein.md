@@ -3,7 +3,7 @@ achievements :
   10            : 0
   25            : 0
   alarm         : 0
-  beer          : 1
+  beer          : 0
   brainfart     : 0
   browsercheck  : 0
   coffee        : 0
@@ -18,7 +18,7 @@ achievements :
   fart          : 0
   fry           : 0
   grammar       : 0
-  happy         : 2
+  happy         : 0
   idea          : 0
   legacy-project: 0
   magic         : 0
@@ -34,7 +34,7 @@ achievements :
   progress      : 0
   roadblock     : 0
   sackofhay     : 0
-  sad           : 1
+  sad           : 0
   shield        : 0
   sledgehammer  : 0
   teamplayer    : 0
