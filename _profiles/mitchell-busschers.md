@@ -13,7 +13,7 @@ achievements :
   crown         : 0
   darts         : 0
   dealerdirect  : 0
-  easteregg 	: 0
+  easteregg 	  : 0
   education     : 0
   fart          : 0
   fry           : 0
@@ -31,7 +31,7 @@ achievements :
   pencil        : 0
   pie           : 0
   poo           : 0
-  progress      : 0
+  progress      : 1
   roadblock     : 0
   sackofhay     : 1
   sad           : 0
