@@ -18,7 +18,7 @@ achievements :
   fart          : 0
   fry           : 0
   grammar       : 0
-  happy         : 1
+  happy         : 0
   idea          : 0
   legacy-project: 0
   magic         : 0
@@ -31,7 +31,7 @@ achievements :
   pencil        : 0
   pie           : 0
   poo           : 0
-  progress      : 1
+  progress      : 0
   roadblock     : 0
   sackofhay     : 0
   sad           : 0

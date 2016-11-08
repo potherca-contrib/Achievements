@@ -13,8 +13,8 @@ achievements :
   crown         : 0
   darts         : 0
   dealerdirect  : 0
-  easteregg 	: 1
-  education     : 1
+  easteregg     : 0
+  education     : 0
   fart          : 0
   fry           : 0
   grammar       : 0
