@@ -33,7 +33,7 @@ achievements :
   poo           : 0
   progress      : 0
   roadblock     : 0
-  sackofhay     : 0
+  sackofhay     : 1
   sad           : 0
   shield        : 0
   sledgehammer  : 0
