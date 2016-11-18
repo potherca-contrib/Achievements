@@ -19,7 +19,7 @@ achievements :
   fry           : 0
   grammar       : 0
   happy         : 0
-  idea          : 0
+  idea          : 1
   legacy-project: 0
   magic         : 0
   maillove      : 0
