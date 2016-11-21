@@ -7,7 +7,7 @@ achievements :
   brainfart     : 0
   browsercheck  : 0
   coffee        : 0
-  comment       : 0
+  comment       : 1
   crackpipe     : 0
   crayons       : 0
   crown         : 0
