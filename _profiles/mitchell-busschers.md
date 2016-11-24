@@ -29,7 +29,7 @@ achievements :
   patrick       : 0
   peacepipe     : 0
   pencil        : 0
-  pie           : 1
+  pie           : 2
   poo           : 0
   progress      : 0
   roadblock     : 0
