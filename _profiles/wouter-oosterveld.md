@@ -11,7 +11,7 @@ achievements :
   crackpipe     : 0
   crayons       : 0
   crown         : 0
-  darts         : 0
+  darts         : 1
   dealerdirect  : 0
   easteregg     : 0
   education     : 0
