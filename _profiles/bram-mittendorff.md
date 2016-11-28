@@ -6,8 +6,8 @@ achievements :
   beer          : 0
   brainfart     : 0
   browsercheck  : 0
-  coffee        : 1
-  comment       : 1
+  coffee        : 0
+  comment       : 0
   crackpipe     : 0
   crayons       : 0
   crown         : 0
@@ -29,7 +29,7 @@ achievements :
   patrick       : 0
   peacepipe     : 0
   pencil        : 0
-  pie           : 1
+  pie           : 0
   poo           : 0
   progress      : 0
   roadblock     : 0

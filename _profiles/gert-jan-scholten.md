@@ -33,11 +33,11 @@ achievements :
   poo           : 0
   progress      : 0
   roadblock     : 0
-  sackofhay     : 1
+  sackofhay     : 0
   sad           : 0
   shield        : 0
   sledgehammer  : 0
-  teamplayer    : 1
+  teamplayer    : 0
   teamwork      : 0
   thumb         : 0
 ---
