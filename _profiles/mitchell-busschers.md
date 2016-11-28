@@ -13,8 +13,8 @@ achievements :
   crown         : 0
   darts         : 0
   dealerdirect  : 0
-  easteregg     : 1
-  education     : 1
+  easteregg     : 0
+  education     : 0
   fart          : 0
   fry           : 0
   grammar       : 0
@@ -29,7 +29,7 @@ achievements :
   patrick       : 0
   peacepipe     : 0
   pencil        : 0
-  pie           : 2
+  pie           : 0
   poo           : 0
   progress      : 0
   roadblock     : 0
@@ -39,5 +39,5 @@ achievements :
   sledgehammer  : 0
   teamplayer    : 0
   teamwork      : 0
-  thumb         : 2
+  thumb         : 0
 ---

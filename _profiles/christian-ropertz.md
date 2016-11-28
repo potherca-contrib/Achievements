@@ -6,11 +6,11 @@ achievements :
   beer          : 0
   brainfart     : 0
   browsercheck  : 0
-  coffee        : 1
+  coffee        : 0
   comment       : 0
   crackpipe     : 0
   crayons       : 0
-  crown         : 1
+  crown         : 0
   darts         : 0
   dealerdirect  : 0
   easteregg     : 0

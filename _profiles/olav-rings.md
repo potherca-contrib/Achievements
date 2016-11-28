@@ -25,11 +25,11 @@ achievements :
   maillove      : 0
   medal         : 0
   nerf          : 0
-  party         : 1
+  party         : 0
   patrick       : 0
   peacepipe     : 0
   pencil        : 0
-  pie           : 1
+  pie           : 0
   poo           : 0
   progress      : 0
   roadblock     : 0

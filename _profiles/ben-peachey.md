@@ -6,7 +6,7 @@ achievements :
   beer          : 0
   brainfart     : 0
   browsercheck  : 0
-  coffee        : 1
+  coffee        : 0
   comment       : 0
   crackpipe     : 0
   crayons       : 0
@@ -14,12 +14,12 @@ achievements :
   darts         : 0
   dealerdirect  : 0
   easteregg     : 0
-  education     : 1
+  education     : 0
   fart          : 0
   fry           : 0
   grammar       : 0
   happy         : 0
-  idea          : 1
+  idea          : 0
   legacy-project: 0
   magic         : 0
   maillove      : 0
