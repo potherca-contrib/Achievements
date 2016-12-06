@@ -25,7 +25,7 @@ achievements :
   maillove      : 0
   medal         : 0
   nerf          : 0
-  party         : 0
+  party         : 1
   patrick       : 0
   peacepipe     : 0
   pencil        : 0
