@@ -38,6 +38,6 @@ achievements :
   shield        : 0
   sledgehammer  : 0
   teamplayer    : 0
-  teamwork      : 1
+  teamwork      : 0
   thumb         : 0
 ---
