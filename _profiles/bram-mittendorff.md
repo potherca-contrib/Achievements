@@ -3,7 +3,7 @@ achievements :
   10            : 0
   25            : 0
   alarm         : 0
-  beer          : 1
+  beer          : 0
   brainfart     : 0
   browsercheck  : 0
   coffee        : 0
@@ -18,7 +18,7 @@ achievements :
   fart          : 0
   fry           : 0
   grammar       : 0
-  happy         : 1
+  happy         : 0
   idea          : 0
   legacy-project: 0
   magic         : 0

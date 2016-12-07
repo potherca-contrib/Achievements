@@ -3,7 +3,7 @@ achievements :
   10            : 0
   25            : 0
   alarm         : 0
-  beer          : 1
+  beer          : 0
   brainfart     : 0
   browsercheck  : 0
   coffee        : 0

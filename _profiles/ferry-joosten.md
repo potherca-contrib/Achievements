@@ -18,7 +18,7 @@ achievements :
   fart          : 0
   fry           : 0
   grammar       : 0
-  happy         : 1
+  happy         : 0
   idea          : 0
   legacy-project: 0
   magic         : 0
@@ -39,5 +39,5 @@ achievements :
   sledgehammer  : 0
   teamplayer    : 0
   teamwork      : 0
-  thumb         : 1
+  thumb         : 0
 ---
