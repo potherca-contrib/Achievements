@@ -22,7 +22,7 @@ achievements :
   idea          : 0
   legacy-project: 0
   magic         : 0
-  maillove      : 0
+  maillove      : 1
   medal         : 0
   nerf          : 0
   party         : 0
