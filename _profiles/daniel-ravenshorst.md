@@ -16,7 +16,7 @@ achievements :
   easteregg     : 0
   education     : 0
   fart          : 0
-  fry           : 0
+  fry           : 1
   grammar       : 0
   happy         : 0
   idea          : 0
