@@ -28,7 +28,7 @@ achievements :
   party         : 0
   patrick       : 0
   peacepipe     : 0
-  pencil        : 0
+  pencil        : 1
   pie           : 0
   poo           : 0
   progress      : 0
