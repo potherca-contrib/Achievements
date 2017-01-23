@@ -36,7 +36,7 @@ achievements :
   sackofhay     : 0
   sad           : 0
   shield        : 0
-  sledgehammer  : 1
+  sledgehammer  : 0
   teamplayer    : 0
   teamwork      : 0
   thumb         : 0
