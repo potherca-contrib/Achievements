@@ -19,7 +19,7 @@ layout: profile-list
         {% for badgeName in badges %}
             {% assign score = page.achievements[badgeName] %}
             <li {% if score > 0  %}class="scored"{% endif %}>
-                <img src="{{ site.baseurl }}/img/badges/svg/badge_{{ badgeName }}.svg" />
+                <img title="{{ badgeName }}" src="{{ site.baseurl }}/img/badges/svg/badge_{{ badgeName }}.svg" />
                 {% if score > 0 %}
                 <span class="score">{{ score }}</span>
                 {% endif %}
