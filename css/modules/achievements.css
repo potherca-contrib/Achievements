@@ -45,10 +45,9 @@
     transition: opacity 0.85s;
 }
 
-.achievements .score:hover {
-    opacity: 0;
+.achievements .scored:hover .score {
+    display: none;
 }
-
 
 .achievements li img:hover,
 .achievements .scored img {
