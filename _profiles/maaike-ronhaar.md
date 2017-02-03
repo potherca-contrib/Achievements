@@ -10,7 +10,7 @@ achievements :
   comment       : 0
   crackpipe     : 0
   crayons       : 0
-  crown         : 0
+  crown         : 1
   darts         : 0
   dealerdirect  : 0
   easteregg     : 1
