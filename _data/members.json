@@ -9,14 +9,6 @@
       ]
     },
     {
-      "name": "Data Science",
-      "members": [
-        {
-          "fullname": "Knut Jaegersberg"
-        }
-      ]
-    },
-    {
       "name": "Design",
       "members": [
         {
@@ -68,9 +60,6 @@
         },
         {
           "fullname": "Vincent Stevens"
-        },
-        {
-          "fullname": "Wouter Oosterveld"
         }
       ]
     },
@@ -78,10 +67,13 @@
       "name": "Product Owners",
       "members": [
         {
+          "fullname": "Arthur Prinsen"
+        },
+        {
           "fullname": "Ferry Joosten"
         },
         {
-          "fullname": "Linsey van der Veen"
+          "fullname": "Maaike Ronhaar"
         }
       ]
     },
@@ -91,7 +83,6 @@
         {
           "fullname": "Arthur Prinsen"
         },
-
         {
           "fullname": "Geertje Bruinsma"
         },
