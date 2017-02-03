@@ -26,7 +26,7 @@ achievements :
   medal         : 0
   nerf          : 0
   party         : 0
-  patrick       : 0
+  patrick       : 1
   peacepipe     : 0
   pencil        : 0
   pie           : 0
