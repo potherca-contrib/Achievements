@@ -1,0 +1,70 @@
+
+ TODO:
+-------
+
+- [.] Split out the logic from the content to allow easy re-use by others
+- [ ] Add a "reset" button to the UI that takes a GH token and resets the score
+- [ ] Add a `badges.yml` (or JSON) that points to image URL/path so it is possible to add where a badge is for
+- [ ] Add what a badge is for to the UI (title -> hover -> popover)
+- [ ] Add a copyright-free version/theme for most common badges
+  - 16 : https://thenounproject.com/dergraph/collection/awards-and-medals/?oq=badges&cidx=23
+  - 12 - 15: https://thenounproject.com/icon54app/collection/vote-reward-badges-line-icon/?oq=badges&cidx=11
+  - 12: https://thenounproject.com/romzicon/collection/social-medium/?oq=like&cidx=21
+- [ ] Remove members.json, use `My Name.md` in the `_profiles` folder
+-      -> How will this work for departements? One subfolder per departement?
+- [x] Add logic to get an abbreviation from the new `My Name.yml` file names
+- [ ] Make it trivial to award someone with a badge
+- [ ] Add GH ribbon to easily go to the related page on GH
+
+## Repositories
+
+### Core
+
+The "Core" repository is the code-base that contains the logic, templates,
+basic layout/styling and documentation and examples.
+
+It contains the following files:
+
+_includes       <-- Template Logic
+_layouts        <-- Templates
+(?) assets (?)  <-- @TODO: Move all JS/CSS/etc. into a single folder?
+css             <-- basic styling
+    modules
+    base-theme.css
+    layout.css
+js              <-- UI functionality
+README.md       <-- Documentation
+_config.yml     <-- Example configuration file
+index.html      <-- Move "somehwere else" (?)
+
+
+### Awards
+
+The "Awards" repository is the code-base that the developers or an
+organisation are interested so they can award badges. In order for this to work
+the Core repository needs to be included as a git submodule and the config
+needs to point to that submodule directory.
+
+
+**_config.yml**
+
+    core_directory: @{achievements-core-repo}
+    includes_dir: core/_includes
+    layouts_dir:  core/_layouts
+
+It contains the following files:
+
+    @{achievements-core-repo}   <--
+    _config.yml                 <-- points to repository
+    _data
+        badges.json             <-- List of badges (name/url)
+        members.json            <-- List of users  (department->user.name/image)
+    _profiles                   <-- One file per user
+    css
+        custom-theme.css        <-- Organisation specific styling (colours, fonts, etc)
+    [img]        (Optional)     <--  Member and Badge images. Images can be kept elsewhere
+        badges                       and configured from the _data/*.json files
+        member
+
+
+---
